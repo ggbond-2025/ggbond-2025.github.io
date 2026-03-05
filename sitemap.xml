@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/posts/d6cdeee/</loc>
+    <loc>https://blog.ggbond-2025.top/posts/d6cdeee/</loc>
     
     <lastmod>2026-03-05</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/posts/d5a9552d/</loc>
+    <loc>https://blog.ggbond-2025.top/posts/d5a9552d/</loc>
     
     <lastmod>2026-03-05</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/link/index.html</loc>
+    <loc>https://blog.ggbond-2025.top/link/index.html</loc>
     
     <lastmod>2026-03-05</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/categories/index.html</loc>
+    <loc>https://blog.ggbond-2025.top/categories/index.html</loc>
     
     <lastmod>2026-03-05</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/tags/index.html</loc>
+    <loc>https://blog.ggbond-2025.top/tags/index.html</loc>
     
     <lastmod>2026-03-05</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>https://ggbond-2025.vercel.app/</loc>
+    <loc>https://blog.ggbond-2025.top/</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,14 +56,14 @@
 
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/tags/blog/</loc>
+    <loc>https://blog.ggbond-2025.top/tags/blog/</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/tags/docker/</loc>
+    <loc>https://blog.ggbond-2025.top/tags/docker/</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -72,14 +72,14 @@
 
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://blog.ggbond-2025.top/categories/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ggbond-2025.vercel.app/categories/docker/</loc>
+    <loc>https://blog.ggbond-2025.top/categories/docker/</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
